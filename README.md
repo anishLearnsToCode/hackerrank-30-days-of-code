@@ -15,7 +15,7 @@
 | [Day 3: Intro To Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day3.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_3.py) |
 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day4.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_4.py) |
 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day5.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_5.py) |
-| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | Easy | 30 | |
+| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day6.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_6.py) |
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | Easy | 30 | |
 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | Easy | 30 | |
 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | Easy | 30 | |
