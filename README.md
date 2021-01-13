@@ -1,19 +1,19 @@
 # HackerRank 30 Days of Code
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/284-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-0/284-008000.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/30-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-0/30-008000.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-0/30-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 | Name | Difficulty | Score | Solution |
 |------|:----------:|:-----:|:--------:|
-| [Day 0: Hello World](https://www.hackerrank.com/challenges/30-hello-world) | Easy | 30 | |
-| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types) | Easy | 30 | |
-| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators) | Easy | 30 | |
-| [Day 3: Intro To Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | Easy | 30 | |
-| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | Easy | 30 | |
+| [Day 0: Hello World](https://www.hackerrank.com/challenges/30-hello-world) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day0.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_0.py) |
+| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1.py) |
+| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day2.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_2.py) |
+| [Day 3: Intro To Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day3.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_3.py) |
+| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day4.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_4.py) |
 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) | Easy | 30 | |
 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | Easy | 30 | |
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | Easy | 30 | |
