@@ -18,13 +18,13 @@
 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day6.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_6.py) |
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day7.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_7.py) |
 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day8.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_8.py) |
-| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | Easy | 30 | |
-| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | Easy | 30 | |
-| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | Easy | 30 | |
-| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | Easy | 30 | |
-| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | Easy | 30 | |
-| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | Easy | 30 | |
-| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) | Easy | 30 | |
+| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day9.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_9.py) |
+| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day10.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_10.py) |
+| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day11.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_11.py) |
+| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day12.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_12.py) |
+| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day13.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_13.py) |
+| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day14.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_14.py) |
+| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day15.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_15.py) |
 | [Day 16: Exceptions - String To Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | Easy | 30 | |
 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | Easy | 30 | |
 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | Easy | 30 | |
