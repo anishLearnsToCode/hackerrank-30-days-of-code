@@ -25,17 +25,17 @@
 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day13.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_13.py) |
 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day14.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_14.py) |
 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day15.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_15.py) |
-| [Day 16: Exceptions - String To Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | Easy | 30 | |
-| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | Easy | 30 | |
-| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | Easy | 30 | |
-| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | Easy | 30 | |
-| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) | Easy | 30 | |
-| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | Easy | 30 | |
-| [Day 22: Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees) | Easy | 30 | |
-| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | Easy | 30 | |
-| [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | Easy | 30 | |
-| [Day 25: Running Time Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | Medium | 30 | |
-| [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | Easy | 30 | |
-| [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) | Easy | 30 | |
-| [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) | Medium | 30 | |
-| [Day 29: Bitwise And](https://www.hackerrank.com/challenges/30-bitwise-and) | Medium | 30 | |
+| [Day 16: Exceptions - String To Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day16.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_16.py) |
+| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day17.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_17.py) |
+| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day18.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_18.py) |
+| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day19.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_19.py) |
+| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day20.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_20.py) |
+| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day21.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_21.py) |
+| [Day 22: Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day22.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_22.py) |
+| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day23.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_23.py) |
+| [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day24.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_24.py) |
+| [Day 25: Running Time Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | Medium | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day25.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_25.py) |
+| [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day26.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_26.py) |
+| [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day27.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_27.py) |
+| [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) | Medium | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day28.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_28.py) |
+| [Day 29: Bitwise And](https://www.hackerrank.com/challenges/30-bitwise-and) | Medium | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day29.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_29.py) |
