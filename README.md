@@ -1,8 +1,8 @@
 # HackerRank 30 Days of Code
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/30-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-0/30-008000.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-0/30-008000.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-30/30-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-30/30-008000.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-29/29-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
@@ -30,7 +30,7 @@
 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day18.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_18.py) |
 | [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day19.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_19.py) |
 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day20.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_20.py) |
-| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day21.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_21.py) |
+| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day21.java) |
 | [Day 22: Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day22.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_22.py) |
 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day23.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_23.py) |
 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day24.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_24.py) |
